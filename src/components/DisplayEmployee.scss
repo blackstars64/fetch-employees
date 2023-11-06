@@ -1,0 +1,22 @@
+.DisplayEmployee {
+  width: 45vw;
+  border: 2px solid black;
+  border-radius: 15px;
+  box-shadow: 0 0 5px 2px black;
+  display: flex;
+  margin-bottom: 1rem;
+  img {
+    margin: 0.5rem;
+    width: 10vw;
+    border-radius: 15px;
+    border: 2px solid black;
+  }
+  ul {
+    li {
+      text-decoration: none;
+      list-style: none;
+      text-align: start;
+      font-size: 0.8em;
+    }
+  }
+}
